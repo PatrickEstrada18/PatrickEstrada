@@ -4,12 +4,7 @@
 
 
 ### :man_technologist: About Me:
-Computer Engineer with 2+ years of practical experience in IT support, hardware troubleshooting and repair, home automation systems, and fiber optic network design and layout updates using AutoCAD. Proficient in system maintenance, network management, troubleshooting, and technical problem-solving. Demonstrated ability to deliver reliable, efficient solutions while maintaining system performance and minimizing operational disruptions. Eager to leverage technical expertise to contribute to efficient IT operations and business continuity.
-## Resume
-📝 <a href="https://drive.google.com/drive/folders/1kGWis5jBD3M7sV-y5V6ccJM9FhJ9nEVI">
- <b>Click Here</b> </a>
-
- 
+Detail-oriented Computer Engineering graduate with UAE experience in high-volume data entry, customer record maintenance, and operational coordination, plus prior financial-services data analysis experience. Currently processes 100+ customer orders daily at Al Ain Pharmacy and previously used SQL and Excel to validate customer, loan, and repayment data. Skilled in data accuracy, record organization,  and confidential information handling.
     
     
 
@@ -54,19 +49,18 @@ Computer Engineer with 2+ years of practical experience in IT support, hardware 
 
 <h2>👨‍💻 Dashboard for Analytics:</h2>
 
-<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/890809ce-903a-4ead-ab22-383a51d4fad3" />
-<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/5db275ea-dc2d-4feb-bd42-6511e87f9552" />
+<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/890809ce-903a-4ead-ab22-383a51d4fad3" />
+<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/5db275ea-dc2d-4feb-bd42-6511e87f9552" />
 
  - [Power BI Dashboards](https://drive.google.com/drive/u/0/folders/1Y9FDHipcwKQ4QOJbCdMjOuya8yCraE_0)
 
 
 <h2>👨‍💻 AutoCAD drawings:</h2>
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/aa7ea83e-f585-4cbf-8d08-dc55386ee33e" />
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/ef0f4673-c8ae-4da1-8171-964de677a0b7" />
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/aea8b2f5-56e8-416e-9cf0-61c76c4bc2f7" />
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/4863a7cd-733c-4e38-a8eb-e591b121e7d6" />
-<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/2d19a3bf-a535-4209-90d5-99fa1140f93a" />
-<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/a42b2379-6755-4d60-973f-bb9a5263fb84" />
+<img wdth="500" height="300" alt="image" src="https://github.com/user-attachments/assets/2d19a3bf-a535-4209-90d5-99fa1140f93a" />
+
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/b9144602-a1d0-4c61-bdb7-9a87ade66980" />
 
 
@@ -121,13 +115,8 @@ Computer Engineer with 2+ years of practical experience in IT support, hardware 
 | Data Entry & Database Management          | Communication|
 | Data Cleaning (Excel) | Collaboration|
 |AutoCad 2D/Isometric |Detail-oriented |
-|Routing & Switching | Adaptability|
-|VLAN Configuration | Quick learner|
 |IT Support & Helpdesk | Time Management |
 | Data Visualization (Power BI, Tableau         | Analysis|
-| Active Directory    | Organization|
-| User Access Management           | Problem Solving|
-| Computer Assembly and Maintenance | Customer Service |
 | Programming Languages (SQL, Python, R) |Documentation |
 
 
